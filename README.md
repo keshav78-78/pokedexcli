@@ -40,4 +40,4 @@ git clone https://github.com/keshav78-78/pokedexcli.git
 cd pokedexcli
 
 # Run the app
-go run main.go
+go run main.go / go run .
